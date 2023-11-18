@@ -39,11 +39,11 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nike-landing-page.git
+git clone https://github.com/PranabKumarSahoo/nike-landing-page-react.git
 ```
 2. Change into the project directory:
 ```
-cd nike-landing-page
+cd <project-directory-name>
 ```
 3. Install dependencies:
 ```
