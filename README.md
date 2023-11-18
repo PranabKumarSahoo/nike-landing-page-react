@@ -1,4 +1,75 @@
-# React + Vite
+# Nike Landing Page
+
+A responsive Nike landing page built with React + Vite, and Tailwind CSS.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+[Live Demo](https://nike-page-pks.vercel.app/)
+
+## Features
+
+- Responsive design
+- React components
+- Vite for fast development
+- Tailwind CSS for styling
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/nike-landing-page.git
+```
+2. Change into the project directory:
+```
+cd nike-landing-page
+```
+3. Install dependencies:
+```
+npm install
+```
+
+## Usage
+####To start the development server and run the project, use the following command:
+```
+npm run dev
+```
+This will start the development server and open your project in the browser. Any changes you make to the source code will be automatically reflected in the browser.
+#### Building for Production:
+```
+npm run build
+```
+This will create an optimized build of your project in the dist directory.
+
+## Contributing
+If you'd like to contribute to this project, please follow the standard GitHub fork/pull request process.
+
+## License
+This project is completely free to use. 😉✌️
+ 
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
