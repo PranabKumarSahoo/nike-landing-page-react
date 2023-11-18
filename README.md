@@ -43,7 +43,7 @@ git clone https://github.com/PranabKumarSahoo/nike-landing-page-react.git
 ```
 2. Change into the project directory:
 ```
-cd <project-directory-name>
+cd nike-landing-page-react
 ```
 3. Install dependencies:
 ```
@@ -51,12 +51,12 @@ npm install
 ```
 
 ## Usage
-####To start the development server and run the project, use the following command:
+To start the development server and run the project, use the following command:
 ```
 npm run dev
 ```
 This will start the development server and open your project in the browser. Any changes you make to the source code will be automatically reflected in the browser.
-#### Building for Production:
+Building for Production:
 ```
 npm run build
 ```
