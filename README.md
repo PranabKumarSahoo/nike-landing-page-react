@@ -10,7 +10,6 @@ A responsive Nike landing page built with React + Vite, and Tailwind CSS.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
