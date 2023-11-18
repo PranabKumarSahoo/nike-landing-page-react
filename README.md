@@ -2,27 +2,16 @@
 
 A responsive Nike landing page built with React + Vite, and Tailwind CSS.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-
-[Live Demo](https://nike-page-pks.vercel.app/)
-
 ## Features
 
 - Responsive design
 - React components
 - Vite for fast development
 - Tailwind CSS for styling
+
+## Demo
+
+[Live Demo](https://nike-page-pks.vercel.app/)
 
 ## Getting Started
 
